@@ -1,25 +1,25 @@
 body {
-    background-color:#fcfcfc;
-    font-family: "Open Sans", Calibri, sans-serif;
+	background-color:#fcfcfc;
+	font-family: "Open Sans", Calibri, sans-serif;
 
 }
 
 
 a {
 	text-decoration:none;
-    /*color:#d38535;*/
+	/*color:#d38535;*/
 	color:#0e3bc5;
 }
 
 hr {
-    background: #ddd none repeat scroll 0 0;
-    border: medium none;
-    clear: both;
-    color: #ddd;
-    float: none;
-    height: 0.1em;
-    margin: 0 0 1.45em;
-    width: 100%;
+	background: #ddd none repeat scroll 0 0;
+	border: medium none;
+	clear: both;
+	color: #ddd;
+	float: none;
+	height: 0.1em;
+	margin: 0 0 1.45em;
+	width: 100%;
 }
 
 a:hover {
@@ -30,55 +30,55 @@ h1   {color:blue;}
 
 
 #mainmenu {
-    text-decoration: none !important;
-    list-style: outside none none;
-    font-family: "futura-pt";
-    font-size: 13px;
-    font-style: normal;
-    font-weight: 400;
-    letter-spacing: 1px;
-    line-height: 1.6em;
-    text-decoration: none;
-    text-transform: uppercase;
+	text-decoration: none !important;
+	list-style: outside none none;
+	font-family: "futura-pt";
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 1px;
+	line-height: 1.6em;
+	text-decoration: none;
+	text-transform: uppercase;
 }
 
 
 li {
-    /*display: inline-block;*/
-    margin-right:20px;
-    /*line-height: 26px;*/
+	/*display: inline-block;*/
+	margin-right:20px;
+	/*line-height: 26px;*/
 }
 
 
 .menuheadline {
-    padding-left:3px;
-    font-size: 22px;
-    font-style: bold;
-    font-weight: 800;
-    letter-spacing: 1px;
+	padding-left:3px;
+	font-size: 22px;
+	font-style: bold;
+	font-weight: 800;
+	letter-spacing: 1px;
 }
 
 .headline {
-    padding-left:3px;
-    font-size: 22px;
-    font-style: bold;
-    font-weight: 800;
-    letter-spacing: 1px;
-    padding-bottom:10px;
+	padding-left:3px;
+	font-size: 22px;
+	font-style: bold;
+	font-weight: 800;
+	letter-spacing: 1px;
+	padding-bottom:10px;
 }
 
 .labeled-image {
-    margin-bottom: 5px;
-    margin-top: 10px;
+	margin-bottom: 5px;
+	margin-top: 10px;
 }
 
 .spacertoimage {
-    margin-top: 7px;
+	margin-top: 7px;
 }
 
 
 #page-wrap {
-     width: 840px;
+	 width: 840px;
 
-     margin: 50 auto;
+	 margin: 50 auto;
 }
