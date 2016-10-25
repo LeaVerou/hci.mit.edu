@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 338 280" fill="white">
+
+<rect y="70" width="20" height="210" id="bar"/>
+<use xlink:href="#bar" x="32" />
+<use xlink:href="#bar" x="64" />
+<use xlink:href="#bar" x="96" />
+
+<rect x="128" width="20" height="280" id="bar-ascender" />
+
+<use xlink:href="#bar-ascender" x="61" />
+<use xlink:href="#bar" x="221" />
+<use xlink:href="#bar" x="253" />
+
+<rect x="284.7" y="69.7" width="20" height="70" id="c" />
+<use xlink:href="#c" y="140" />
+
+<use xlink:href="#bar" x="317" />
+
+</svg>

@@ -1,84 +1,221 @@
-body {
-	background-color:#fcfcfc;
-	font-family: "Open Sans", Calibri, sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=latin-ext');
 
+body {
+	margin: 0;
+	background: white;
+	font: 100%/1.5 "Open Sans", Helvetica Neue, sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.25;
+}
 
 a {
-	text-decoration:none;
-	/*color:#d38535;*/
-	color:#0e3bc5;
+	color: inherit;
 }
 
-hr {
-	background: #ddd none repeat scroll 0 0;
-	border: medium none;
-	clear: both;
-	color: #ddd;
-	float: none;
-	height: 0.1em;
-	margin: 0 0 1.45em;
-	width: 100%;
+	a:not(:hover):not(:focus) {
+		text-decoration: none;
+	}
+
+body > header {
+	padding: 1em 1.5em 1.8em;
+	margin-bottom: 1em;
+	background: linear-gradient(transparent, rgba(0,0,0,.5)), url("images/social/group-meeting.jpg") center / cover;
+	color: white;
+	text-align: center;
+	font-size: 120%;
+	text-shadow: 0 0 .5em rgba(0,0,0,.5);
 }
 
-a:hover {
-	text-decoration:underline;
+	body > header nav {
+		display: flex;
+		padding: .5em;
+	}
+
+		body > header nav h1 {
+			background: url("images/logos/mithci.svg") left / contain content-box no-repeat;
+			margin: 0;
+			text-indent: -999px;
+			overflow: hidden;
+			margin-top: -.5em;
+		}
+
+		body > header nav ul {
+			display: flex;
+			flex: 1;
+			justify-content: flex-end;
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			font-weight: bold;
+		}
+
+			body > header nav ul a {
+				padding: 0 .3em;
+			}
+
+	body > header h2 {
+		margin-top: 2em;
+		margin-bottom: .4em;
+		font-weight: 300;
+		font-size: 300%;
+	}
+
+	body > header .join {
+		display: inline-block;
+		padding: .4em 1em .5em;
+		border: .15em solid white;
+		border-radius: .3em;
+		font-weight: bold;
+	}
+
+		body > header .join:hover {
+			text-decoration: none;
+			background: white;
+			color: black;
+			mix-blend-mode: screen;
+			text-shadow: none;
+		}
+
+body > section,
+body > footer {
+	max-width: 60rem;
+	margin: auto;
+	padding: 1em;
 }
 
-h1   {color:blue;}
+	body > section > h1 {
+		color: hsl(20, 100%, 45%);
+		font-weight: 300;
+		font-size: 250%;
+	}
 
-
-#mainmenu {
-	text-decoration: none !important;
-	list-style: outside none none;
-	font-family: "futura-pt";
-	font-size: 13px;
-	font-style: normal;
-	font-weight: 400;
-	letter-spacing: 1px;
-	line-height: 1.6em;
-	text-decoration: none;
-	text-transform: uppercase;
+section.people {
+	display: flex;
+	flex-flow: row wrap;
 }
 
+	section.people > h1 {
+		width: 100%;
+	}
 
-li {
-	/*display: inline-block;*/
-	margin-right:20px;
-	/*line-height: 26px;*/
+	section.people article {
+		position: relative;
+		margin: 1em 2em 1em 0;
+	}
+
+		section.people article h1 {
+			margin: 0;
+		}
+
+		section.people article img {
+			width: 13em;
+			height: 13em;
+			object-fit: cover;
+			border-radius: 50%;
+		}
+
+		section.people article .group {
+			display: block;
+			font-weight: bold;
+			color: rgba(0,0,0,.5);
+		}
+
+	section.people[id=phds] article {
+		max-width: 11em;
+		text-align: center;
+	}
+
+		section.people[id=phds] article img {
+			width: 11em;
+			height: 11em;
+		}
+
+		section.people[id=phds] article .group {
+			font-size: 80%;
+			font-weight: 300;
+			color: inherit;
+		}
+
+section[id="classes"] article {
+	display: flex;
+	margin: 1em 0;
 }
 
+	section[id="classes"] article .semester,
+	section[id="classes"] article.coming-soon h1::after {
+		display: inline-block;
+		vertical-align: .2em;
+		border-radius: .3em;
+		background: hsl(220, 10%, 70%);
+		text-transform: uppercase;
+		color: white;
+		font-size: 60%;
+	}
 
-.menuheadline {
-	padding-left:3px;
-	font-size: 22px;
-	font-style: bold;
-	font-weight: 800;
-	letter-spacing: 1px;
-}
+	section[id="classes"] article.coming-soon h1::after {
+		content: "Coming Soon";
+		padding: .25em .5em;
+		margin-left: .5em;
+	}
 
-.headline {
-	padding-left:3px;
-	font-size: 22px;
-	font-style: bold;
-	font-weight: 800;
-	letter-spacing: 1px;
-	padding-bottom:10px;
-}
+	section[id="classes"] article > img {
+		flex: 0 0 content;
+		max-width: 10em;
+		max-height: 8em;
+		object-fit: cover;
+		margin-right: 1em;
+		border-radius: .3em;
+	}
 
-.labeled-image {
-	margin-bottom: 5px;
-	margin-top: 10px;
-}
+	section[id="classes"] article > div {
+		flex: 1;
+	}
 
-.spacertoimage {
-	margin-top: 7px;
-}
+	section[id="classes"] article h1 {
+		margin: 0;
+	}
 
+	section[id="classes"] article .description {
+		font-size: 80%;
+	}
 
-#page-wrap {
-	 width: 840px;
+	section[id="classes"] article .semester {
+		display: inline-block;
+		padding: .2em .5em;
+		margin-right: .3em;
+		background: hsl(220, 30%, 92%);
+		color: inherit;
+		vertical-align: baseline;
+		font-size: 70%;
+	}
 
-	 margin: 50 auto;
+	section[id="classes"] article .semester.fall {
+		background: hsl(40, 30%, 90%);
+	}
+
+	section[id="classes"] article .semester.spring {
+		background: hsl(80, 30%, 90%);
+	}
+
+		section[id="classes"] article .semester::before {
+			margin-right: .5em;
+		}
+
+		section[id="classes"] article .semester.iap::before {
+			content: "❄️";
+		}
+
+		section[id="classes"] article .semester.fall::before {
+			content: "🍂";
+		}
+
+		section[id="classes"] article .semester.spring::before {
+			content: "🌼"
+		}
+
+body > footer {
+	background: hsl(220, 10%, 90%);
+	box-shadow: -50vw 0 hsl(220, 10%, 90%), 50vw 0 hsl(220, 10%, 90%);
 }
