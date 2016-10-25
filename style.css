@@ -144,9 +144,11 @@ section[id="classes"] article {
 }
 
 	section[id="classes"] article .semester,
-	section[id="classes"] article.coming-soon h1::after {
+	section[id="classes"] article.coming-soon h1::after,
+	section[id="seminar"] > section > h1 a {
 		display: inline-block;
 		vertical-align: .2em;
+		padding: .2em .5em;
 		border-radius: .3em;
 		background: hsl(220, 10%, 70%);
 		text-transform: uppercase;
@@ -183,7 +185,6 @@ section[id="classes"] article {
 
 	section[id="classes"] article .semester {
 		display: inline-block;
-		padding: .2em .5em;
 		margin-right: .3em;
 		background: hsl(220, 30%, 92%);
 		color: inherit;
@@ -214,6 +215,55 @@ section[id="classes"] article {
 		section[id="classes"] article .semester.spring::before {
 			content: "🌼"
 		}
+
+
+section[id="seminar"] > section {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+	section[id="seminar"] > .info {
+		display: flex;
+		justify-content: space-between;
+		padding: .8em 1em;
+		margin: 1em -1em;
+		border-radius: .3em;
+		background: hsl(220, 10%, 93%);
+		font-size: 95%;
+	}
+
+		section[id="seminar"] > .info a[title^="Where"] {
+			font-weight: bold;
+		}
+
+	section[id="seminar"] > section > h1 {
+		width: 100%;
+	}
+
+		section[id="seminar"] > section > h1 a:hover {
+			background: hsl(20, 100%, 45%);
+			text-decoration: none;
+		}
+
+	@media (min-width: 750px) {
+		section[id="seminar"] article {
+			width: 49%;
+		}
+	}
+
+		section[id="seminar"] video {
+			width: 100%;
+		}
+
+		section[id="seminar"] article h1 {
+			margin: .3em 0;
+			font-weight: 300;
+		}
+
+			section[id="seminar"] article h1 strong {
+				display: block;
+			}
 
 body > footer {
 	background: hsl(220, 10%, 90%);
