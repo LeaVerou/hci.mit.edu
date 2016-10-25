@@ -138,6 +138,50 @@ section.people {
 			color: inherit;
 		}
 
+section[id="research"] article {
+	margin-bottom: 2em;
+}
+
+	section[id="research"] article > p {
+		font-weight: 300;
+		font-size: 80%;
+	}
+
+	section[id="research"] article footer,
+	section[id="seminar"] > .info {
+		padding: .8em 1em;
+		margin: 1em -1em;
+		border-radius: .3em;
+		background: hsl(220, 10%, 93%);
+	}
+
+	section[id="research"] article footer {
+		color: rgba(0,0,0,.5);
+		font-size: 80%;
+		background: hsl(20, 100%, 95%);
+		max-width: fit-content;
+		padding: .6em 1em;
+	}
+
+		section[id="research"] article footer a {
+			font-weight: bold;
+			color: black;
+		}
+
+		section[id="research"] article a[href^="https://www.youtube.com"],
+		section[id="research"] article a.video {
+			font-size: 0;
+		}
+
+			section[id="research"] article a[href^="https://www.youtube.com"]::before {
+				content: url("images/icons/icon_youtube.png");
+			}
+
+			section[id="research"] article a.video::before {
+				content: "📽";
+				font-size: 1rem;
+			}
+
 section[id="classes"] article {
 	display: flex;
 	margin: 1em 0;
@@ -226,10 +270,6 @@ section[id="seminar"] > section {
 	section[id="seminar"] > .info {
 		display: flex;
 		justify-content: space-between;
-		padding: .8em 1em;
-		margin: 1em -1em;
-		border-radius: .3em;
-		background: hsl(220, 10%, 93%);
 		font-size: 95%;
 	}
 
