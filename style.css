@@ -32,7 +32,6 @@ p {
 
 body > header {
 	padding: 1em 1.5em 1.8em;
-	margin-bottom: 1em;
 	background: linear-gradient(transparent, rgba(0,0,0,.5)),
 	            url("images/social/group-meeting.jpg") 50% 20% / cover hsl(20, 100%, 45%);
 	color: white;
@@ -148,21 +147,21 @@ body > header {
 			}
 }
 
-
 body > section,
 body > footer {
 	max-width: 60rem;
 	margin: auto;
-	padding: 1em 1em 0;
+	padding: 0 1em;
 }
 
 	body > section > h1 {
 		position: relative;
+		z-index: 1;
 		color: hsl(20, 100%, 45%);
 		font-weight: 300;
 		font-size: 250%;
-		margin: 0;
-		padding-top: 2em;
+		padding-top: 1.5em;
+		margin-top: 0;
 	}
 
 		body > section > h1 > a::before {
@@ -170,8 +169,8 @@ body > footer {
 			position: absolute;
 			right: 100%;
 			bottom: -.55em;
-			margin-right: -.6em;
 			z-index: -1;
+			margin-right: -.6em;
 			width: 1.2em;
 			padding: .5em;
 			border-radius: 50%;
@@ -179,7 +178,7 @@ body > footer {
 			font-weight: bold;
 			font-size: 120%;
 			color: white;
-			background: hsla(20, 100%, 50%, .2);
+			background: hsla(20, 100%, 85%, .75);
 			transition: .4s;
 		}
 
@@ -455,11 +454,36 @@ section[id="seminar"] > section {
 				display: block;
 			}
 
+section[id="join"] {
+	background: hsl(220, 10%, 30%);
+	box-shadow: -50vw 0 hsl(220, 10%, 30%), 50vw 0 hsl(220, 10%, 30%);
+	padding: 1em 1em 2em;
+	margin-top: 3em;
+	color: white;
+}
+
+	section[id="join"] > h1 {
+		padding-top: 0;
+	}
+
+	section[id="join"] > p {
+		position: relative;
+		z-index: 1;
+	}
+
+		section[id="join"] > h1 > a:not(:hover)::before {
+			background: hsla(20, 100%, 80%, .75);
+			z-index: -1;
+		}
+
+		section[id="join"]:target > h1 > a:not(:hover)::before {
+			color: hsl(220, 10%, 30%);
+		}
+
 body > footer {
 	display: flex;
 	flex-flow: row wrap;
-	padding-bottom: 1em;
-	margin-top: 2em;
+	padding: 1em;
 	background: hsl(220, 10%, 90%);
 	box-shadow: -50vw 0 hsl(220, 10%, 90%), 50vw 0 hsl(220, 10%, 90%);
 }
