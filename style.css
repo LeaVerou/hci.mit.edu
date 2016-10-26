@@ -6,6 +6,7 @@ body {
 	margin: 0;
 	background: white;
 	font: 100%/1.5 "Open Sans", Helvetica Neue, sans-serif;
+	text-decoration-skip: ink;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,6 +20,10 @@ h1 {
 
 a {
 	color: inherit;
+}
+
+p {
+	hyphens: auto;
 }
 
 	a:not(:hover):not(:focus) {
@@ -122,12 +127,13 @@ body > header {
 /* Scrolled header */
 @media (min-width: 600px) {
 	.scrolled body {
-		padding-top: 2em;
+		padding-top: 24em; /* height of hidden part of header, to prevent jump */
 	}
 
 		.scrolled body > header {
 			position: fixed;
 			top: 0; left: 0; right: 0;
+			z-index: 2;
 			padding: .5em 1.5em .5em;
 			box-shadow: 0 .2em 1em rgba(0,0,0,.3);
 		}
@@ -147,14 +153,48 @@ body > section,
 body > footer {
 	max-width: 60rem;
 	margin: auto;
-	padding: 1em;
+	padding: 1em 1em 0;
 }
 
 	body > section > h1 {
+		position: relative;
 		color: hsl(20, 100%, 45%);
 		font-weight: 300;
 		font-size: 250%;
+		margin: 0;
+		padding-top: 2em;
 	}
+
+		body > section > h1 > a::before {
+			content: "#";
+			position: absolute;
+			right: 100%;
+			bottom: -.55em;
+			margin-right: -.6em;
+			z-index: -1;
+			width: 1.2em;
+			padding: .5em;
+			border-radius: 50%;
+			text-align: center;
+			font-weight: bold;
+			font-size: 120%;
+			color: white;
+			background: hsla(20, 100%, 50%, .2);
+			transition: .4s;
+		}
+
+		body > section:not(:target) > h1 > a:not(:hover)::before {
+			opacity: 0;
+			transform: scale(0);
+		}
+
+		body > section:target > h1 > a:not(:hover)::before {
+
+		}
+
+		body > section > h1 > a:hover::before {
+			color: inherit;
+		}
 
 section.people {
 	display: flex;
@@ -246,7 +286,7 @@ section[id="research"] article {
 		padding: .8em 1em;
 		margin: 1em -1em;
 		border-radius: .3em;
-		background: hsl(220, 10%, 93%);
+		background: hsla(220, 15%, 50%, .15);
 	}
 
 	section[id="research"] article footer {
@@ -408,6 +448,7 @@ section[id="seminar"] > section {
 		section[id="seminar"] article h1 {
 			margin: .3em 0;
 			font-weight: 300;
+			font-size: 100%;
 		}
 
 			section[id="seminar"] article h1 strong {

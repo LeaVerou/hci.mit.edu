@@ -333,6 +333,13 @@ window.addEventListener("scroll", evt => {
 	let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
 	document.documentElement.classList.toggle("scrolled", scrollTop > 200);
 });
+
+for (let h1 of document.querySelectorAll("body > section > h1")) {
+	let hash = document.createElement("a");
+	hash.href = "#" + h1.parentNode.id;
+	while(h1.firstChild) hash.appendChild(h1.firstChild);
+	h1.appendChild(hash);
+}
 </script>
 </body>
 </html>
