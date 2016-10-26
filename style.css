@@ -458,6 +458,8 @@ section[id="seminar"] > section {
 body > footer {
 	display: flex;
 	flex-flow: row wrap;
+	padding-bottom: 1em;
+	margin-top: 2em;
 	background: hsl(220, 10%, 90%);
 	box-shadow: -50vw 0 hsl(220, 10%, 90%), 50vw 0 hsl(220, 10%, 90%);
 }
