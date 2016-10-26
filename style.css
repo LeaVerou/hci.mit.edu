@@ -42,12 +42,14 @@ body > header {
 	}
 
 		body > header nav h1 {
-			background: url("images/logos/mithci.svg") left / contain content-box no-repeat;
 			margin: 0;
-			text-indent: -999px;
-			overflow: hidden;
 			margin-top: -.5em;
+			height: 1.8em;
 		}
+
+			body > header nav h1 img {
+				height: 100%;
+			}
 
 		body > header nav ul {
 			display: flex;
