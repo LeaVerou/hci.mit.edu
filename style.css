@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=latin-ext');
 
+* { margin: 0; }
+
 body {
 	margin: 0;
 	background: white;
@@ -8,6 +10,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25;
+	margin: 1em 0 .5em;
+}
+
+h1 {
+	font-size: 120%;
 }
 
 a {
@@ -21,7 +28,8 @@ a {
 body > header {
 	padding: 1em 1.5em 1.8em;
 	margin-bottom: 1em;
-	background: linear-gradient(transparent, rgba(0,0,0,.5)), url("images/social/group-meeting.jpg") center / cover;
+	background: linear-gradient(transparent, rgba(0,0,0,.5)),
+	            url("images/social/group-meeting.jpg") center / cover hsl(20, 100%, 45%);
 	color: white;
 	text-align: center;
 	font-size: 120%;
@@ -51,6 +59,12 @@ body > header {
 			font-weight: bold;
 		}
 
+		@media (max-width: 400px) {
+			body > header nav ul {
+				flex-flow: column;
+			}
+		}
+
 			body > header nav ul a {
 				padding: 0 .3em;
 			}
@@ -60,6 +74,12 @@ body > header {
 		margin-bottom: .4em;
 		font-weight: 300;
 		font-size: 300%;
+	}
+
+	@media (max-width: 550px) {
+		body > header h2 {
+			font-size: 150%;
+		}
 	}
 
 	body > header .join {
@@ -101,8 +121,13 @@ section.people {
 	}
 
 	section.people article {
-		position: relative;
-		margin: 1em 2em 1em 0;
+		margin: .5em 0;
+	}
+
+	@media (min-width: 770px) {
+		section.people article {
+			margin: 1em 2em 1em 0;
+		}
 	}
 
 		section.people article h1 {
@@ -122,9 +147,11 @@ section.people {
 			color: rgba(0,0,0,.5);
 		}
 
-	section.people[id=phds] article {
-		max-width: 11em;
-		text-align: center;
+	@media (min-width: 770px) {
+		section.people[id=phds] article {
+			max-width: 11em;
+			text-align: center;
+		}
 	}
 
 		section.people[id=phds] article img {
@@ -137,6 +164,28 @@ section.people {
 			font-weight: 300;
 			color: inherit;
 		}
+
+	@media (max-width: 770px) {
+		section.people {
+			flex-flow: column;
+		}
+
+			section.people[id] article {
+				max-width: auto;
+			}
+
+			section.people[id] article img {
+				width: 4.6em;
+				height: 4.6em;
+				float: left;
+				margin-right: .5em;
+			}
+
+			section.people[id=phds] article img {
+				width: 2.7em;
+				height: 2.7em;
+			}
+	}
 
 section[id="research"] article {
 	margin-bottom: 2em;
@@ -215,6 +264,12 @@ section[id="classes"] article {
 		border-radius: .3em;
 	}
 
+	@media (max-width: 650px) {
+		section[id="classes"] article > img {
+			display: none;
+		}
+	}
+
 	section[id="classes"] article > div {
 		flex: 1;
 	}
@@ -230,18 +285,18 @@ section[id="classes"] article {
 	section[id="classes"] article .semester {
 		display: inline-block;
 		margin-right: .3em;
-		background: hsl(220, 30%, 92%);
+		background: hsl(220, 30%, 94%);
 		color: inherit;
 		vertical-align: baseline;
 		font-size: 70%;
 	}
 
 	section[id="classes"] article .semester.fall {
-		background: hsl(40, 30%, 90%);
+		background: hsl(40, 40%, 90%);
 	}
 
 	section[id="classes"] article .semester.spring {
-		background: hsl(80, 30%, 90%);
+		background: hsl(80, 40%, 90%);
 	}
 
 		section[id="classes"] article .semester::before {
@@ -269,8 +324,16 @@ section[id="seminar"] > section {
 
 	section[id="seminar"] > .info {
 		display: flex;
+		flex-flow: row wrap;
 		justify-content: space-between;
 		font-size: 95%;
+	}
+
+	@media (max-width: 800px) {
+		section[id="seminar"] > .info {
+			flex-flow: column;
+			line-height: 2;
+		}
 	}
 
 		section[id="seminar"] > .info a[title^="Where"] {
@@ -279,6 +342,7 @@ section[id="seminar"] > section {
 
 	section[id="seminar"] > section > h1 {
 		width: 100%;
+		margin-bottom: .5em;
 	}
 
 		section[id="seminar"] > section > h1 a:hover {
@@ -307,12 +371,15 @@ section[id="seminar"] > section {
 
 body > footer {
 	display: flex;
+	flex-flow: row wrap;
 	background: hsl(220, 10%, 90%);
 	box-shadow: -50vw 0 hsl(220, 10%, 90%), 50vw 0 hsl(220, 10%, 90%);
 }
 
-	body > footer > p {
-		flex: 1;
+	@media (min-width: 470px) {
+		body > footer > p {
+			flex: 1;
+		}
 	}
 
 	body > footer a {
