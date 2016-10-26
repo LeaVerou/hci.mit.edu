@@ -306,6 +306,24 @@ section[id="seminar"] > section {
 			}
 
 body > footer {
+	display: flex;
 	background: hsl(220, 10%, 90%);
 	box-shadow: -50vw 0 hsl(220, 10%, 90%), 50vw 0 hsl(220, 10%, 90%);
 }
+
+	body > footer > p {
+		flex: 1;
+	}
+
+	body > footer a {
+		font-weight: bold;
+	}
+
+	body > footer a.logo {
+		height: 3em;
+		margin: 0 .5em;
+	}
+
+		body > footer a.logo > img {
+			height: 100%;
+		}
