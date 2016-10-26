@@ -29,7 +29,7 @@ body > header {
 	padding: 1em 1.5em 1.8em;
 	margin-bottom: 1em;
 	background: linear-gradient(transparent, rgba(0,0,0,.5)),
-	            url("images/social/group-meeting.jpg") center / cover hsl(20, 100%, 45%);
+	            url("images/social/group-meeting.jpg") 50% 20% / cover hsl(20, 100%, 45%);
 	color: white;
 	text-align: center;
 	font-size: 120%;
