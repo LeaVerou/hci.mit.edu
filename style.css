@@ -53,8 +53,8 @@ body > header {
 			}
 
 			body > header nav h1 svg {
-				height: 2.3em;
-				margin-bottom: -.5em;
+				height: calc(100% + .2em);
+				margin-bottom: -.2em;
 			}
 
 			body > header nav h1 svg {
@@ -118,6 +118,30 @@ body > header {
 			font-size: 75%;
 		}
 	}
+
+/* Scrolled header */
+@media (min-width: 600px) {
+	.scrolled body {
+		padding-top: 2em;
+	}
+
+		.scrolled body > header {
+			position: fixed;
+			top: 0; left: 0; right: 0;
+			padding: .5em 1.5em .5em;
+			box-shadow: 0 .2em 1em rgba(0,0,0,.3);
+		}
+
+		.scrolled body > header nav h1 {
+			height: 1.5em;
+		}
+
+			.scrolled body > header h2,
+			.scrolled body > header .join {
+				display: none;
+			}
+}
+
 
 body > section,
 body > footer {

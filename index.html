@@ -328,5 +328,10 @@
 	<a href="http://csail.mit.edu" class="logo"><img src="images/logos/csail.svg" alt="CSAIL" /></a>
 </footer>
 
+<script>
+window.addEventListener("scroll", evt => {
+	document.documentElement.classList.toggle("scrolled", document.documentElement.scrollTop > 200);
+});
+</script>
 </body>
 </html>
