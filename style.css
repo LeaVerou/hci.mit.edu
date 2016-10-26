@@ -49,7 +49,22 @@ body > header {
 
 			body > header nav h1 img {
 				height: 100%;
+				margin: 0 .5em .3em 0;
 			}
+
+			body > header nav h1 svg {
+				height: 2.3em;
+				margin-bottom: -.5em;
+			}
+
+			body > header nav h1 svg {
+				color: white;
+			}
+
+				body > header nav h1 svg use {
+					color: white;
+					fill: hsl(20, 100%, 70%);
+				}
 
 		body > header nav ul {
 			display: flex;
@@ -78,12 +93,6 @@ body > header {
 		font-size: 300%;
 	}
 
-	@media (max-width: 550px) {
-		body > header h2 {
-			font-size: 150%;
-		}
-	}
-
 	body > header .join {
 		display: inline-block;
 		padding: .4em 1em .5em;
@@ -99,6 +108,16 @@ body > header {
 			mix-blend-mode: screen;
 			text-shadow: none;
 		}
+
+	@media (max-width: 550px) {
+		body > header h2 {
+			font-size: 150%;
+		}
+
+		body > header .join {
+			font-size: 75%;
+		}
+	}
 
 body > section,
 body > footer {
