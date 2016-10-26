@@ -12,7 +12,7 @@
 	<nav>
 		<h1>
 			<img src="images/logos/mithci.svg" alt="MIT HCI" />
-			<svg viewBox="0 0 175 134"><use href="images/logos/csail.svg#logo" /></svg>
+			<svg viewBox="0 0 175 134"><use xlink:href="images/logos/csail.svg#logo" /></svg>
 		</h1>
 		<ul>
 			<li><a href="#faculty">People</a></li>
@@ -330,7 +330,8 @@
 
 <script>
 window.addEventListener("scroll", evt => {
-	document.documentElement.classList.toggle("scrolled", document.documentElement.scrollTop > 200);
+	let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+	document.documentElement.classList.toggle("scrolled", scrollTop > 200);
 });
 </script>
 </body>
