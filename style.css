@@ -29,8 +29,7 @@ a {
 	}
 
 	a:hover, a:focus {
-		text-decoration: underline;
-		border-bottom: none;
+		color: hsl(20, 100%, 45%) !important;
 	}
 
 p {
@@ -303,7 +302,7 @@ section[id="research"] article {
 		padding: .6em 1em;
 	}
 
-		section[id="research"] article footer a {
+		section[id="research"] article footer a, section[id="research"] article footer span[class="project"] {
 			font-weight: bold;
 			color: black;
 		}
