@@ -20,15 +20,22 @@ h1 {
 
 a {
 	color: inherit;
+	text-decoration: none;
+	border-bottom: 1px dotted #ccc;
 }
+
+	nav a, a[href^="#"], article > a {
+		border-bottom: none;
+	}
+
+	a:hover, a:focus {
+		text-decoration: underline;
+		border-bottom: none;
+	}
 
 p {
 	hyphens: auto;
 }
-
-	a:not(:hover):not(:focus) {
-		text-decoration: none;
-	}
 
 body > header {
 	padding: 1em 1.5em 1.8em;
