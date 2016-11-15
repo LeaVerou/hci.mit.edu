@@ -36,6 +36,13 @@ p {
 	hyphens: auto;
 }
 
+.seminaryear {
+	padding-top:10px;
+	color: hsl(20, 100%, 45%);
+}
+
+
+
 body > header {
 	padding: 1em 1.5em 1.8em;
 	background: linear-gradient(transparent, rgba(0,0,0,.5)),
@@ -404,7 +411,10 @@ section[id="classes"] article {
 		section[id="classes"] article .semester.spring::before {
 			content: "🌼"
 		}
-
+		section[id="classes"] article .semester.video {
+			background: hsl(40, 40%, 90%);
+			content: "";
+		}
 
 section[id="seminar"] > section {
 	display: flex;
