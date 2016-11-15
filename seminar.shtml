@@ -1,0 +1,21 @@
+<!--#include virtual="seminar.php" -->
+
+<script type="text/javascript">
+$(function() {
+// Using date.js library to parse date and highlight the closest upcoming talk.	
+	$('.currentSeminar .seminar').each(function(key, value){
+		var dateString = $('#' + $(this).attr('id') + ' .date').text();
+		//alert(Date.today().compareTo(Date.parse(dateString)));
+		// find the closest upcoming talk and highlight it.
+		var compare = Date.today().compareTo(Date.parse(dateString)); 
+		if (compare == -1 || compare == 0) { // future or today
+			$('#' + $(this).attr('id') + ' .nextup').text('Next Up');
+			$('#' + $(this).attr('id') + ' .nextup').addClass('upcoming');
+			$('#' + $(this).attr('id') + ' .nextup2').addClass('triangle');
+			return false;
+		} else if (compare == 1) { // past
+			$('#' + $(this).attr('id')).css('background-color', '#E8E8E8');
+		}
+	});
+});
+</script>

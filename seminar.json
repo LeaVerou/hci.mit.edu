@@ -1,0 +1,1804 @@
+{
+"series": [
+  {
+	"year": "2013-2014",
+	"entries":[
+		{
+			"speaker": "mc schraefel",
+			"affiliation": "University of Southampton",
+			"title": "Charting the space of wellbeing design for HCI Research and Evaluation in Four movements",
+			"date": "November 22, 2013",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "https://calendar.csail.mit.edu/events/117922"
+    },
+		{
+			"speaker": "Wendy Mackay",
+			"affiliation": "Inria & Université Paris-Sud",
+			"title": "Co-Adaptive Instruments: Can we reinvent the graphical user interface?",
+			"date": "December 12, 2013",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "https://calendar.csail.mit.edu/events/118321"
+    },
+		{
+			"speaker": "Megan Monroe",
+			"affiliation": "University of Maryland",
+			"title": "Interactive Event Sequence Query and Transformation",
+			"date": "December 13, 2013",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "https://calendar.csail.mit.edu/events/118884"
+    },
+		{
+			"speaker": "Chris Parnin",
+			"affiliation": "Georgia Institute of Technology",
+			"title": "Programmer, Interrupted: Data, Brains, and Tools",
+			"date": "March 13, 2014",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "https://calendar.csail.mit.edu/events/122759"
+    },
+		{
+			"speaker": "Brian Bailey",
+			"affiliation": "University of Illinois at Urbana-Champaign",
+			"title": "Design Thinking Tools for the Individual, Group and Community",
+			"date": "April 4, 2014",
+			"time": "2pm-3pm",
+			"location": "32-G449",
+			"url": "https://calendar.csail.mit.edu/events/126967",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/bailey"
+    },
+		{
+			"speaker": "Marti Hearst",
+			"affiliation": "UC Berkeley",
+			"title": "Towards Collaborative Learning at Scale",
+			"date": "April 11, 2014",
+			"time": "3pm-4pm",
+			"location": "32-D463",
+			"url": "https://calendar.csail.mit.edu/events/127968",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/hearst"
+    },
+		{
+			"speaker": "Alice Oh",
+			"affiliation": "KAIST",
+			"title": "Machine Learning Approaches for Understanding Social Interactions on Twitter",
+			"date": "May 6, 2014",
+			"time": "2pm-3pm",
+			"location": "32-G449",
+			"url": "https://calendar.csail.mit.edu/events/128867"
+    }
+    ]
+  },
+	{
+	"year": "2012-2013",
+	"entries":[
+		{
+			"speaker": "Steven Dow",
+			"affiliation": "Carnegie Mellon University",
+			"title": "Understanding Iterative Design with Individuals, Groups, and Crowds",
+			"date": "November 2, 2012",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3458",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/dow"
+    },
+		{
+			"speaker": "Jeff Bigham",
+			"affiliation": "University of Rochester",
+			"title": "Crowd Agents: Interactive Crowd-Powered Systems in the Real World",
+			"date": "November 9, 2012",
+			"time": "1-2pm",
+			"location": "32-G882",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3459",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/bigham"
+    },
+		{
+			"speaker": "Chris Harrison",
+			"affiliation": "Carnegie Mellon University",
+			"title": "Interacting with Small Devices in Big Ways",
+			"date": "November 15, 2012",
+			"time": "3-4pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3463",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/harrison"
+    },
+		{
+			"speaker": "Amy Ogan",
+			"affiliation": "Carnegie Mellon University",
+			"title": "Taking Educational Technology Worldwide: Challenging the Assumptions of Personalized Learning",
+			"date": "November 16, 2012",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3460",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/ogan"
+    },
+		{
+			"speaker": "Mark Guzdial",
+			"affiliation": "Georgia Tech",
+			"title": "What We Know About Teaching Computer Science: On-Line or In-Classroom (Answer: Not all that much)",
+			"date": "November 30, 2012",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3461",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/guzdial"
+    },
+		{
+			"speaker": "Eric Gilbert",
+			"affiliation": "Georgia Tech",
+			"title": "Designing social computing systems around relationships",
+			"date": "December 7, 2012",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3462",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/gilbert"
+    },
+		{
+			"speaker": "Aron Pilhofer",
+			"affiliation": "The New York Times",
+			"title": "Goosing the Gray Lady: Data + journalism + graphics at The New York Times",
+			"date": "December 14, 2012",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3479",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/pilhofer"
+    },
+		{
+			"speaker": "Paul André",
+			"affiliation": "Carnegie Mellon University",
+			"title": "Self and Social Awareness: Designing for Communication and Collaboration",
+			"date": "March 8, 2013",
+			"time": "11am-12pm",
+			"location": "32-G882",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3626",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/andre"
+    },
+		{
+			"speaker": "Monica Lam",
+			"affiliation": "Stanford University",
+			"title": "How Mobile Disrupts Social As We Know It",
+			"date": "April 10, 2013",
+			"time": "4-5pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3665",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/lam"
+    }
+
+  ]
+  },
+	{
+	"year": "2011-2012",
+	"entries":[
+		{
+			"speaker": "Michael Terry",
+			"affiliation": "University of Waterloo",
+			"title": "Google Knows What You Hate About Your Kindle: Using Search Queries to Infer User Needs and Desires in Consumer Products",
+			"date": "October 28, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3054",
+			"video": null
+		},
+		{
+			"speaker": "Rebecca Fiebrink",
+			"affiliation": "Princeton University",
+			"title": "Real-time, Interactive Machine Learning for Music Composition and Performance",
+			"date": "November 4, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3055",
+			"video": null
+		},
+		{
+			"speaker": "Lada Adamic",
+			"affiliation": "Univerisity of Michigan",
+			"title": "To friend and to trust: eliciting truthful and useful ratings online",
+			"date": "November 18, 2011",
+			"time": "1-2pm",
+			"location": "32-G882",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3057",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/adamic"
+		},
+		{
+			"speaker": "Daniel Wigdor",
+			"affiliation": "University of Toronto",
+			"title": "Architecting user interfaces for the natural user",
+			"date": "December 2, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3058",
+			"video": null
+		},
+		{
+			"speaker": "Desney Tan",
+			"affiliation": "Microsoft Research",
+			"title": "The Quest for Always-Available Mobile Interaction",
+			"date": "December 7, 2011",
+			"time": "1-2pm",
+			"location": "32-G882",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3104",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/tan"
+		},
+		{
+			"speaker": "Panos Iperiotis",
+			"affiliation": "NYU",
+			"title": "Crowdsourcing: Quality Assurance and Connections with Machine Learning",
+			"date": "December 9, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3059",
+			"video": null
+		},
+		{
+			"speaker": "Adrian Kuhn",
+			"affiliation": "University of British Columbia",
+			"title": "Software Cartography",
+			"date": "December 14, 2011",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3056",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/kuhn"
+		},
+		{
+			"speaker": "Tovi Grossman",
+			"affiliation": "Autodesk Research",
+			"title": "Understanding and Improving the Learnability of Software Applications",
+			"date": "March 2, 2012",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3211",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/grossman"
+		},
+		{
+			"speaker": "Remco Chang",
+			"affiliation": "Tufts University",
+			"title": "User-Centric Visual Analytics",
+			"date": "March 16, 2012",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3216",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/chang"
+		},
+		{
+			"speaker": "Aniket Kittur",
+			"affiliation": "Carnegie Mellon University",
+			"title": "Crowdsouring, collaboration, and creativity",
+			"date": "April 6, 2012",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3213",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/kittur2"
+		},
+		{
+			"speaker": "Björn Hartmann",
+			"affiliation": "University of California, Berkeley",
+			"title": "Feedback, Monitoring, and Free Snacks: Management Techniques for Crowd Work",
+			"date": "April 26, 2012",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3262",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/hartmann"
+		},
+		{
+			"speaker": "Mark Ackerman",
+			"affiliation": "University of Michigan",
+			"title": "Configuration <i>w</i>ork and the Escalier System",
+			"date": "April 27, 2012",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3214",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/ackerman"
+		},
+		{
+			"speaker": "Sep Kamvar",
+			"affiliation": "MIT",
+			"title": "Languages for Social Computation",
+			"date": "May 18, 2012",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=3215",
+			"video": null
+		}
+	]
+	},
+	{
+	"year": "2010-2011",
+	"entries":[
+ 		{
+			"speaker": "David Ayman Shamma",
+			"affiliation": "Yahoo! Research",
+			"title": "Staying together: Understanding People and Media in Synchronous Connected Systems",
+			"date": "October 8, 2010",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2729",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/shamma"
+		},
+ 		{
+			"speaker": "Mira Dontcheva",
+			"affiliation": "Adobe Research",
+			"title": "Graphic Design Tasks and the Web",
+			"date": "October 15, 2010",
+			"time": "1-2pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2746",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/dontcheva"
+		},
+ 		{
+			"speaker": "Jennifer 8. Lee",
+			"affiliation": "Knight News Challenge",
+			"title": "Innovating the News",
+			"date": "November 19, 2010",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2783",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/lee"
+		},
+ 		{
+			"speaker": "mc schraefel",
+			"affiliation": "University of Southampon",
+			"title": "Designing away from threat and towards performance: On the Road to Neural HCI",
+			"date": "February 4, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2827",
+			"video": null
+		},
+ 		{
+			"speaker": "Ken Perlin",
+			"affiliation": "NYU",
+			"title": "The Future of Human/Computer Interfaces",
+			"date": "February 18, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2834",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/perlin"
+		},
+ 		{
+			"speaker": "Joel Brandt",
+			"affiliation": "Adobe Systems",
+			"title": "Example-Centric Programming",
+			"date": "February 25, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2835",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/brandt"
+		},
+ 		{
+			"speaker": "Kuang Chen",
+			"affiliation": "UC Berkeley",
+			"title": "Data in the First Mile",
+			"date": "March 11, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2836",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/chen"
+		},
+ 		{
+			"speaker": "Adam Perer",
+			"affiliation": "IBM Research",
+			"title": "Making Sense of Social Networks",
+			"date": "March 18, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2843",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/perer"
+		},
+ 		{
+			"speaker": "Nicole Ellison",
+			"affiliation": "Michigan State University",
+			"title": "The benefits of Facebook \"Friends\": The social capital implications of Facebook-enabled communication practices",
+			"date": "April 1, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2837",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/ellison"
+		},
+		{
+			"speaker": "John Riedl",
+			"affiliation": "University of Minnesota",
+			"title": "The Effects of Diversity on Productivity, Member Withdrawal, and Decision Quality in a Social Production Community",
+			"date": "April 8, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2838",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/riedl"
+		},
+		{
+			"speaker": "Andy Ko",
+			"affiliation": "University of Washington",
+			"title": "Defect Detection for the Wayward Web",
+			"date": "April 15, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2839",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/ko"
+		},
+		{
+			"speaker": "Cliff Lampe",
+			"affiliation": "Michigan State University",
+			"title": "\"Earn Your Bull$&!*\": User Lifecycles in Social Media",
+			"date": "April 22, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2840",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/lampe"
+		},
+		{
+			"speaker": "Liz Gerber",
+			"affiliation": "Northwestern University",
+			"title": "Technology that Motivates Creative Action",
+			"date": "April 29, 2011",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=2841",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/gerber"
+		}
+	]
+	},
+	{
+	"year": "2009-2010",
+	"entries":[
+		{
+			"speaker": "John Stasko",
+			"affiliation": "Georgia Institute of Technology",
+			"title": "Visual Analytics for Investigative Analysis and Exploration of Document Collections",
+			"date": "September 11 2009",
+			"time": "1-2pm",
+			"location": "34-401",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2339",
+			"video": null
+		},
+		{
+			"speaker": "Douglas Crockford",
+			"affiliation": "Yahoo!",
+			"title": "Javascript: The Good Parts",
+			"date": "September 18 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2341",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/Crockford"
+		},
+		{
+			"speaker": "Jeff Nichols",
+			"affiliation": "IBM Research",
+			"title": "Highlight: Mobilizing Existing Web Sites",
+			"date": "October 2 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2378",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/Nichols"
+		},
+		{
+			"speaker": "Steve Whittaker",
+			"affiliation": "IBM Research, Almaden",
+			"title": "The Past, Present, and Future of Digital Memories",
+			"date": "October 23 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2342",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/Whittaker"
+		},
+		{
+			"speaker": "Chieko Asakawa",
+			"affiliation": "IBM Research Tokyo",
+			"title": "Challenges and Opportunities in Accessibility Research",
+			"date": "October 30 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2343",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/Asakawa"
+		},
+		{
+			"speaker": "Michael Muller and N Sadat Shami",
+			"affiliation": "IBM Research and IBM Center for Social Software",
+			"title": "Patterns of File-Sharing in an Enterprise: Authors, Contributors, Collectors, and Lurkers",
+			"date": "November 6 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2359",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/Muller"
+		},
+		{
+			"speaker": "Jonathan Grudin",
+			"affiliation": "Microsoft Research",
+			"title": "Enterprise Uses of Social Media",
+			"date": "November 13 2009",
+			"time": "1-2pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2345",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/grudin"
+		},
+		{
+			"speaker": "danah boyd",
+			"affiliation": "Microsoft Research and Harvard Berkman Center for Internet and Society",
+			"title": "Youth-Generated Culture: Growing Up in an Era of Social Media",
+			"date": "November 20 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2344",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/boyd"
+		},
+		{
+			"speaker": "Elizabeth Churchill",
+			"affiliation": "Yahoo! Research",
+			"title": "Beyond the hype of FlickTwitFaceSpace: The social Internet in everyday life",
+			"date": "December 4 2009",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2346",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/churchill"
+		},
+		{
+			"speaker": "Karrie Karahalios",
+			"affiliation": "University of Illinois at Urbana-Champaign",
+			"title": "From Turn-taking to Social Ties",
+			"date": "February 12, 2010",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2493",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/karahalios"
+		},
+		{
+			"speaker": "Niki Kittur",
+			"affiliation": "Carnegie Mellon University",
+			"title": "Combining Minds: Coordination and Social Sensemaking",
+			"date": "February 19, 2010",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2492",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/kittur"
+		},
+		{
+			"speaker": "Nick Bilton",
+			"affiliation": "New York Times",
+			"title": "Research, Design, Visualization at the New York Times",
+			"date": "April 9, 2010",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2521",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/bilton"
+		},
+		{
+			"speaker": "Chris Schmandt",
+			"affiliation": "MIT Media Lab",
+			"title": "Person-centered location based computing",
+			"date": "May 7, 2010",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2629",
+			"video": null
+		}
+	]
+	},
+	{
+	"year": "2008-2009",
+	"entries":[
+		{
+			"speaker": "Li-Te Cheng and Steven Rohall",
+			"affiliation": "IBM Research Cambridge",
+			"title": "Bluegrass - Embedding a Virtual World In a Collaborative Software Development Environment",
+			"date": "September 5, 2008",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1959",
+			"video": null
+		},
+		{
+			"speaker": "Merrie Morris",
+			"affiliation": "Microsoft Research",
+			"title": "SearchTogether and CoSearch: New Tools for Enabling Collaborative Web Search",
+			"date": "September 26, 2008",
+			"time": "2-3pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1946",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/morris"
+		},
+		{
+			"speaker": "Maneesh Agrawala",
+			"affiliation": "UC Berkeley",
+			"title": "Design Principles for Visual Communication",
+			"date": "October 10, 2008",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1997",
+			"video": null
+		},
+		{
+			"speaker": "Khai N. Truong",
+			"affiliation": "University of Toronto",
+			"title": "Beyond Google",
+			"date": "October 17, 2008",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1947",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/truong"
+		},
+		{
+			"speaker": "Jill Freyne",
+			"affiliation": "University College Dublin",
+			"title": "Collaborative Web Search: Exploiting Social Interaction Patterns for Increased Result Relevance",
+			"date": "November 7, 2008",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1965",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/freyne"
+		},
+		{
+			"speaker": "Fran\u00e7ois Guimbreti\u00e8re",
+			"affiliation": "University of Maryland Human-Computer Interaction Lab",
+			"title": "People, Pens and Computers",
+			"date": "November 14, 2008",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1964",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/guimbretiere"
+		},
+		{
+			"speaker": "Ryan Lesser and Dan Schmidt",
+			"affiliation": "Harmonix",
+			"title": "How Harmonix has Changed the User Interface of Gaming",
+			"date": "November 21, 2008",
+			"time": "3-4pm",
+			"location": "32-155",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1998",
+			"video": null
+		},
+		{
+			"speaker": "Saul Greenberg",
+			"affiliation": "University of Calgary",
+			"title": "Enhancing Creativity with Toolkits",
+			"date": "December 3, 2008",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1948",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/greenberg"
+		},
+		{
+			"speaker": "Ed Chi",
+			"affiliation": "PARC",
+			"title": "Augmented Social Cognition: Using Web2.0 technology to enhance the ability of groups to remember, think, and reason",
+			"date": "February 3, 2009",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2089",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/chi"
+		},
+		{
+			"speaker": "Ruth Rosenholtz",
+			"affiliation": "MIT Brain and Cognitive Sciences",
+			"title": "Do predictions of visual perception aid design?",
+			"date": "February 20, 2009",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2108",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/rosenholtz"
+		},
+		{
+			"speaker": "Krzysztof Gajos",
+			"affiliation": "Harvard University and Microsoft Research",
+			"title": "Automatically Generating Personalized User Interfaces",
+			"date": "February 27, 2009",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2104",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/gajos"
+		},
+		{
+			"speaker": "Belle Tseng",
+			"affiliation": "Yahoo!",
+			"title": "Universal Web Search Relevance",
+			"date": "March 3, 2009",
+			"time": "11am-12pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2111",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/tseng"
+		},
+		{
+			"speaker": "Joseph Lawrance",
+			"affiliation": "Oregon State University",
+			"title": "Information Foraging in Debugging",
+			"date": "March 13, 2009",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2126",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/lawrance"
+		},
+		{
+			"speaker": "Takeo Igarashi",
+			"affiliation": "University of Tokyo",
+			"title": "Interactive \"Smart\" Computers",
+			"date": "March 30, 2009",
+			"time": "2-3pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2125",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/igarashi"
+		},
+		{
+			"speaker": "Jaime Teevan",
+			"affiliation": "Microsoft Research",
+			"title": "The Web Changes Everything: How Dynamic Content Affects the Way People Find Online",
+			"date": "April 3, 2009",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2136",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/teevan"
+		},
+		{
+			"speaker": "Michel Beaudouin-Lafon",
+			"affiliation": "Universit\u00e9 de Paris-Sud",
+			"title": "Interaction Beyond Computation",
+			"date": "April 10, 2009",
+			"time": "11am-12pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2105",
+			"video": null
+		},
+		{
+			"speaker": "Patrick Baudisch",
+			"affiliation": "Microsoft Research and Hasso Plattner Institute",
+			"title": "Back-of-Device Interaction Allows Creating Very Small Touch Devices",
+			"date": "April 10, 2009",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2167",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/baudisch"
+		},
+		{
+			"speaker": "Orit Shaer",
+			"affiliation": "Wellesley",
+			"title": "A Specification Paradigm for the Design and Implementation of Tangible User Interfaces",
+			"date": "May 1, 2009",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2107",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/shaer"
+		},
+		{
+			"speaker": "William Jones",
+			"affiliation": "University of Washington",
+			"title": "Putting Our Digital Information in Its Place: Lessons Learned from Fieldwork and Prototyping in the Keeping Found Things Found Project",
+			"date": "May 5, 2009",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=2121",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/jones"
+		}
+	]
+	},
+	{
+	"year": "2007-2008",
+	"entries":[
+		{
+			"speaker": "Bill Buxton",
+			"affiliation": "Microsoft Research",
+			"title": "Sketching and Design for the Wild: Why Programmers Should Return to Kindergarten Rather than Program",
+			"date": "September 14, 2007",
+			"time": "1-2pm",
+			"location": "32-141",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1527",
+			"video": null
+		},
+		{
+			"speaker": "Jon Herlocker",
+			"affiliation": "Oregon State University and Smart Desktop, Inc.",
+			"title": "TaskTracer and Smart Desktop: Combining Activity Tracking with Machine Learning to Support Multi-tasking Information Workers",
+			"date": "September 21, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1536",
+			"video": null
+		},
+		{
+			"speaker": "Jason Hong",
+			"affiliation": "Carnegie Mellon HCI Institute",
+			"title": "User Interfaces and Algorithms for Anti-Phishing",
+			"date": "September 28, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1525",
+			"video": null
+		},
+		{
+			"speaker": "Scott Klemmer",
+			"affiliation": "Stanford University",
+			"title": "Enabling User Innovation through Improved Design Environments",
+			"date": "October 5, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1522",
+			"video": null
+		},
+		{
+			"speaker": "Ryen White",
+			"affiliation": "Microsoft Research",
+			"title": "Do Users Need a Search Parachute and a Search Compass? Supporting Navigation and Guided Discovery During Exploratory Search",
+			"date": "October 23, 2007",
+			"time": "1-2pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1555",
+			"video": null
+		},
+		{
+			"speaker": "Amy Bruckman",
+			"affiliation": "Georgia Institute of Technology",
+			"title": "Shaping the Age of User-Generated Content",
+			"date": "November 2, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1526",
+			"video": null
+		},
+		{
+			"speaker": "Irene Greif",
+			"affiliation": "IBM Research",
+			"title": "In Crowds We Trust: Examples of Collective Wisdom",
+			"date": "November 9, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1538",
+			"video": null
+		},
+		{
+			"speaker": "Jeff Heer",
+			"affiliation": "UC Berkeley",
+			"title": "Voyagers and Voyeurs: Supporting Asynchronous Collaborative Information Visualization",
+			"date": "November 16, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1551",
+			"video": "http://www.csail.mit.edu/videoarchive/talks/hci/heer"
+		},
+		{
+			"speaker": "Towards Usable and Useful Multi-Touch Systems",
+			"affiliation": "University of Toronto",
+			"title": "Towards Usable and Useful Multi-Touch Systems",
+			"date": "November 30, 2007",
+			"time": "2-3pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1564",
+			"video": null
+		},
+		{
+		     "speaker": "Scott Hudson",
+		     "affiliation": "Carnegie Mellon HCI Institute",
+		     "title": "Viewing Ubiquitous Computing Through the Lens of Human Attention",
+		     "date": "February 7, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1708",
+		     "video": null
+		},
+		{
+		     "speaker": "Mark Ashdown",
+		     "affiliation": "MIT Humans and Automation Laboratory",
+		     "title": "Tabletop Displays and Remote Collaboration",
+		     "date": "February 29, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1748",
+		     "video": null
+		},
+		{
+		     "speaker": "Harry West",
+		     "affiliation": "Continuum Design",
+		     "title": "Interactive Experiences: Designing for Consumer 2.0",
+		     "date": "March 7, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1695",
+		     "video": null
+		},
+		{
+		     "speaker": "Candy Sidner",
+		     "affiliation": "BAE Systems AIT",
+		     "title": "Robots and People Collaborating: How to be an Engaging Robot",
+		     "date": "March 14, 2008",
+		     "time": "3-4pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1701",
+		     "video": null
+		},
+		{
+		     "speaker": "Tessa Lau",
+		     "affiliation": "IBM Almaden Research Center",
+		     "title": "Collaborative Scripting for the Web",
+		     "date": "March 21, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1706",
+		     "video": null
+		},
+		{
+		     "speaker": "Andreas Paepke",
+		     "affiliation": "Stanford University",
+		     "title": "Twenty Questions to Name That Bird",
+		     "date": "April 18, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1721",
+		     "video": null
+		},
+		{
+		     "speaker": "Dan Olsen",
+		     "affiliation": "Brigham Young University",
+		     "title": "Interactive Machine Learning",
+		     "date": "May 2, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1771",
+		     "video": null
+		},
+		{
+		     "speaker": "Ronald Baecker",
+		     "affiliation": "Knowledge Media Design Institute and Dept of Computer Science, University of Toronto",
+		     "title": "User Experience Research Challenges in Media Spaces for eLearning",
+		     "date": "May 8, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1696",
+		     "video": null
+		},
+		{
+		     "speaker": "Ben Fry",
+		     "affiliation": "Processing.org",
+		     "title": "Processing",
+		     "date": "May 16, 2008",
+		     "time": "2-3pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1698",
+		     "video": null
+		}
+	]
+	},
+	{
+	"year": "2006-2007",
+	"entries":[
+		{
+			"speaker": "James Lin",
+			"affiliation": "IBM Research Almaden",
+			"title": "End-User Creation, Customization, and Sharing of Work Activities and Processes",
+			"date": "September 20, 2006",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1227",
+			"video": null
+		},
+		{
+			"speaker": "Karen Holtzblatt",
+			"affiliation": "InContext Enterprises",
+			"title": "Contextual Design: From Customer Data to Implementation",
+			"date": "September 29, 2006",
+			"time": "1:30-2:30pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1216",
+			"video": null
+		},
+		{
+			"speaker": "Peter Tarasewich",
+			"affiliation": "Northeasteren University",
+			"title": "Strengthening the Privacy & Security of Displayed Information",
+			"date": "October 6, 2006",
+			"time": "1:30-2:30pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1217",
+			"video": null
+		},
+		{
+			"speaker": "Mary Ellen Zurko",
+			"affiliation": "IBM",
+			"title": "User-Centered Security: Stepping Up to the Grand Challenge",
+			"date": "October 20, 2006",
+			"time": "1:30-2:30pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1218",
+			"video": null
+		},
+		{
+			"speaker": "mc schraefel",
+			"affiliation": "University of Southampton",
+			"title": "Making Tea with Chemists and Bioinformatitians - lessons learned in designing up close and at a distance",
+			"date": "November 17, 2006",
+			"time": "1:30-2:30pm",
+			"location": "32-D463",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1295",
+			"video": null
+		},
+		{
+			"speaker": "Steven Drucker",
+			"affiliation": "Microsoft Research/Live Labs",
+			"title": "Information Visualization meets Information Overload: Building User Interfaces to Deal with Too Much Information",
+			"date": "November 30, 2006",
+			"time": "11am-12pm",
+			"location": "32-G449",
+			"url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1294",
+			"video": null
+		},
+		{
+		     "speaker": "Harold Thimbleby",
+		     "affiliation": "Swansea University",
+		     "title": "A new sort of calculator",
+		     "date": "January 11, 2007",
+		     "time": "4-5pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1340",
+		     "video": null
+		},
+		{
+		     "speaker": "Gregory Abowd",
+		     "affiliation": "Georgia Tech",
+		     "title": "Using Computing Technologies to Face the Challenges of Autism",
+		     "date": "February 2, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1342",
+		     "video": null
+		},
+		{
+		     "speaker": "Brian P. Bailey",
+		     "affiliation": "University of Illinois",
+		     "title": "Paying Attention to Interruption: A Human-Centered Approach to Intelligent Interruption Management",
+		     "date": "February 16, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1347",
+		     "video": null
+		},
+		{
+		     "speaker": "Mor Naaman",
+		     "affiliation": "Yahoo! Research Berkeley",
+		     "title": "The Community/Individual Cycle: Extracting Knowledge, Creating Applications and Understanding Motivations in Public Photo Collections",
+		     "date": "February 23, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1343",
+		     "video": null
+		},
+		{
+		     "speaker": "Bill Moggridge",
+		     "affiliation": "IDEO",
+		     "title": "Invention and Innovation",
+		     "date": "March 9, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-G449",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1345",
+		     "video": null
+		},
+		{
+		     "speaker": "Jeremy Bailenson",
+		     "affiliation": "Stanford University",
+		     "title": "Transformed Social Interaction in Virtual Reality",
+		     "date": "March 16, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1344",
+		     "video": null
+		},
+		{
+		     "speaker": "Alfred Kobsa",
+		     "affiliation": "Department of Informatics, University of California, Irvine",
+		     "title": "Privacy-Enhanced Personalization",
+		     "date": "March 30, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1364",
+		     "video": null
+		},
+		{
+		     "speaker": "Christopher R. Wren",
+		     "affiliation": "Mitsubishi Electric Research Laboratories",
+		     "title": "Mitsubishi Electric Research Laboratories",
+		     "date": "April 6, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1425",
+		     "video": null
+		},
+		{
+		     "speaker": "Marti Hearst",
+		     "affiliation": "School of Information, UC Berkeley",
+		     "title": "Some Thoughts on Social Tagging",
+		     "date": "April 20, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1352",
+		     "video": null
+		},
+		{
+		     "speaker": "Stacey Scott",
+		     "affiliation": "MIT Humans and Automation Lab",
+		     "title": "Leveraging Task and Social Practices in Ubicomp",
+		     "date": "April 27, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1402",
+		     "video": null
+		},
+		{
+		     "speaker": "Katherine Isbister",
+		     "affiliation": "Rensselaer Polytechnic Institute",
+		     "title": "Better Game Characters by Design: A Psychological Approach",
+		     "date": "May 11, 2007",
+		     "time": "1:30-2:30pm",
+		     "location": "32-D463",
+		     "url": "http://www.csail.mit.edu/events/eventcalendar/calendar.php?show=event&id=1355",
+		     "video": null
+		}
+	]
+	},
+	{
+	"year": "2005-2006",
+	"entries":[
+      {
+           "speaker": "David MacKay",
+           "affiliation": "University of Cambridge",
+           "title": "Dasher - Efficient Communication with Any Muscle, or Even Just One Neuron",
+           "date": "July 21, 2005",
+           "time": "10-11am",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=757",
+           "video": null
+       },
+
+      {
+           "speaker": "Edward Tse",
+           "affiliation": "University of Calgary",
+           "title": "Puppetry in 3D Animations",
+           "date": "September 2, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-D463",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=758",
+           "video": null
+       },
+
+      {
+           "speaker": "Ted Selker",
+           "affiliation": "MIT Media Lab",
+           "title": "Context Aware Computing, Understanding and Responding to Human Intention",
+           "date": "September 9, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-D463",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=759",
+           "video": null
+       },
+
+      {
+           "speaker": "Jared Spool",
+           "affiliation": "User Interface Engineering",
+           "title": "What Users Want",
+           "date": "September 16, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=807",
+           "video": null
+       },
+
+      {
+           "speaker": "Judith Tabolt Matthews",
+           "affiliation": "University of Pittsburgh, School of Nursing",
+           "title": "Robots and Other Intelligent Technology for Older Adults",
+           "date": "September 23, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=841",
+           "video": null
+       },
+
+      {
+           "speaker": "Marina Bers",
+           "affiliation": "Tufts Univeristy",
+           "title": "Developmental Technologies: Designing Computational Environments to Promote Positive Youth Development",
+           "date": "September 30, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=820",
+           "video": null
+       },
+
+      {
+           "speaker": "Beth Logan",
+           "affiliation": "Hewlett Packard",
+           "title": "Automatic Music Similarity Measures",
+           "date": "October 7, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=853",
+           "video": null
+       },
+
+      {
+           "speaker": "Stephen Intille",
+           "affiliation": "MIT House_n",
+           "title": "The PlaceLab: What it does, what's been done with it, and how you can use it for your own research",
+           "date": "October 14, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=803",
+           "video": null
+       },
+
+      {
+           "speaker": "Ben Shneiderman",
+           "affiliation": "University of Maryland, College Park",
+           "title": "The Thrill of Discovery: Information Visualization for High-Dimensional Spaces",
+           "date": "October 18, 2005",
+           "time": "4-5pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=760",
+           "video": null
+       },
+
+      {
+           "speaker": "Tamara Adlin",
+           "affiliation": "Amazon Services",
+           "title": "The Persona Lifecycle: Integrating User Representations into Every Stage of Product Design",
+           "date": "October 25, 2005",
+           "time": "11am-12pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=876",
+           "video": null
+       },
+
+      {
+           "speaker": "Martin Wattenberg",
+           "affiliation": "IBM Watson Research Center",
+           "title": "The Social Life of Visualizations",
+           "date": "November 4, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=810",
+           "video": null
+       },
+
+      {
+           "speaker": "William Gribbons",
+           "affiliation": "Design and Usability Center, Bentley College",
+           "title": "HCI Meets the Boardroom: User Experience as a Business Unit",
+           "date": "November 18, 2005",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=809",
+           "video": null
+       },
+
+      {
+           "speaker": "Paul Lukowicz",
+           "affiliation": "UMIT, Innsbruck, Austria; ETH Zurich, Switzerland",
+           "title": "Context Awarness In Wearable System in Human Computer Interaction",
+           "date": "December 2, 2005",
+           "time": "3-4pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=885",
+           "video": null
+       },
+
+		{
+		           "speaker": "Michael Muller",
+		           "affiliation": "IBM Cambridge Research Lab",
+		           "title": "Multiple Users' Perspectives of Collaborative Activities in Complex Work",
+		           "date": "March 10, 2006",
+		           "time": "1:30-2:30pm",
+		           "location": "32-G449",
+		           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=973",
+		           "video": null
+		},
+		{
+		           "speaker": "Fritz Knabe",
+		           "affiliation": "Endeca",
+		           "title": "Ending The Tyranny of the Search Box",
+		           "date": "March, 17 2006",
+		           "time": "1:30-2:30pm",
+		           "location": "32-G449",
+		           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1011",
+		           "video": null
+		},
+		{
+		           "speaker": "Pekka Ketola",
+		           "affiliation": "Nokia",
+		           "title": "On Mobile User Interfaces, Usability and Ergonomy: Trends and Evolution",
+		           "date": "April, 7 2006",
+		           "time": "1:30-2:30pm",
+		           "location": "32-G449",
+		           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=974",
+		           "video": null
+		},
+		{
+		           "speaker": "Kazuhiro Otsaka",
+		           "affiliation": "NTT",
+		           "title": "Communication Scene Analysis Based on Probabilistic Modeling of Human Gaze Behavior",
+		           "date": "April, 28 2006",
+		           "time": "2-3pm",
+		           "location": "32-G449",
+		           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1059",
+		           "video": null
+		},
+		{
+		           "speaker": "Bill Barnert",
+		           "affiliation": "SavaJe Technologies",
+		           "title": "Squeezing Java Swing Components onto a Cell Phone",
+		           "date": "May, 5 2006",
+		           "time": "1:30-2:30pm",
+		           "location": "32-G449",
+		           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1096",
+		           "video": null
+		},
+		{
+		           "speaker": "Patrick Baudisch",
+		           "affiliation": "Microsoft Research",
+		           "title": "Making Sense on Small Screens",
+		           "date": "July, 28 2006",
+		           "time": "1:30-2:30pm",
+		           "location": "32-D463",
+		           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=1171",
+		           "video": null
+		}
+	]
+	},
+	{
+	"year": "2004-2005",
+	"entries":[
+		{
+           "speaker": "Stacey Scott",
+           "affiliation": "University of Calgary",
+           "title": "Territoriality in Collaborative Tabletop Workspaces",
+           "date": "August 13 2004",
+           "time": "1:0-2:00pm",
+           "location": "32-397",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=151",
+           "video": null
+        },
+		{
+           "speaker": "Ben Bederson",
+           "affiliation": "Human Computer Interaction Lab, University of Maryland",
+           "title": "Interfaces for Staying in the Flow",
+           "date": "September 17 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=109",
+           "video": null
+        },
+		{
+           "speaker": "Robert C. Miller",
+           "affiliation": "CSAIL, MIT",
+           "title": "Bridging Tradeoffs in User Interface Design: Examples from Text Editing, Wide-Area Navigation, and Graphical Editing",
+           "date": "September 24 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=138",
+           "video": null
+        },
+		{
+           "speaker": "Missy Cummings",
+           "affiliation": "Humans and Automation Lab, MIT",
+           "title": "Automation Bias in Intelligent Time Critical Decision",
+           "date": "October 1 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=173",
+           "video": null
+        },
+		{
+           "speaker": "Hiroshi Ishii",
+           "affiliation": "Tangible Media Group, MIT Media Lab",
+           "title": "Tangible Bits: Beyond Ubiquitous GUIs",
+           "date": "October 8 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=179",
+           "video": null
+        },
+		{
+           "speaker": "William Jones",
+           "affiliation": "The Information School, University of Washington",
+           "title": "A review of the Keeping Found Things Found project: Highlights and new Directions",
+           "date": "October 12 2004",
+           "time": "3:00-4:00pm",
+           "location": "32-D463",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=216",
+           "video": null
+        },
+		{
+           "speaker": "Margrit Betke",
+           "affiliation": "Boston University",
+           "title": "Communication Interfaces for People with Severe Disabilities via Video-based Gesture Detection",
+           "date": "October 15 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=158",
+           "video": null
+        },
+		{
+           "speaker": "Gregory D. Abowd",
+           "affiliation": "College of Computing and GVU Center, Georgia Institute of Technology",
+           "title": "Hold that thought! Applications of automated capture in everyday life",
+           "date": "October 22 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=154",
+           "video": null
+        },
+		{
+           "speaker": "Barbara J. Grosz",
+           "affiliation": "Harvard University",
+           "title": "Beyond Mice and Menus",
+           "date": "October 29 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=141",
+           "video": null
+        },
+		{
+           "speaker": "Tom Igoe",
+           "affiliation": "NYU",
+           "title": "Social, Physical, and Assistive: Grounding Innovation in Social (and Personal) Motivation",
+           "date": "November 5 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-D463",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=144",
+           "video": null
+        },
+		{
+           "speaker": "Gary Marchionini",
+           "affiliation": "School of Information and Library Science, University of North Carolina",
+           "title": "Human-Computer Information Retrieval",
+           "date": "November 12 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=136",
+           "video": null
+        },
+		{
+           "speaker": "Demetrios Karis",
+           "affiliation": "Verizon Labs",
+           "title": "Techniques for Understanding the User Experience",
+           "date": "November 19 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=203",
+           "video": null
+        },
+		{
+           "speaker": "Sean W. Smith",
+           "affiliation": "Dartmouth College",
+           "title": "Security, Trust, and HCI",
+           "date": "December 10 2004",
+           "time": "1:30-2:30pm",
+           "location": "32-G449",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=166",
+           "video": null
+        },
+		{
+	        "speaker": "Holly Yanco",
+	        "affiliation": "University of Massachusetts, Lowell",
+	        "title": "Improving Human-Robot Interaction for Urban Search and Rescue",
+	        "date": "February 4 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=294",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Daniel Weld",
+	        "affiliation": "University of Washington",
+	        "title": "User Interfaces: Adaptation, Customization & Generation",
+	        "date": "February 18 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=289",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Michael Muller",
+	        "affiliation": "IBM Watson Research Center",
+	        "title": "Activity Studies in Complex Collaborative Environments",
+	        "date": "February 25 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=293",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Ruth Rosenholtz",
+	        "affiliation": "MIT BCS",
+	        "title": "What is clutter?",
+	        "date": "April 1 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=342",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Susan T. Dumais",
+	        "affiliation": "Microsoft Research",
+	        "title": "Stuff I've Seen: Personal Information Management and Use",
+	        "date": "April 13 2005",
+	        "time": "4:00PM to 5:00PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=290",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Steven Feiner",
+	        "affiliation": "Columbia University",
+	        "title": "Here, There, and Everywhere: User Interfaces and Spatial Context",
+	        "date": "April 22 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=358",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Chia Shen",
+	        "affiliation": "MERL",
+	        "title": "Understanding Multi-User Interface and Interactions On and Across Direct-Touch Surfaces",
+	        "date": "April 29 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=296",
+	        "video": null
+	    },
+	    {
+	        "speaker": "Pattie Maes",
+	        "affiliation": "MIT Media Lab",
+	        "title": "Attentive Objects: Enriching People's Natural Interaction with Everyday Objects",
+	        "date": "May 13 2005",
+	        "time": "1:30PM to 2:30PM",
+	        "location": "Patil Seminar Room (32-G449)",
+	        "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=361",
+	        "video": null
+	    }
+	]
+	},
+	{
+	"year": "2003-2004",
+	"entries":[
+		{
+		"speaker": "Andrew Senior",
+		"affiliation": "IBM Watson Research Center",
+		"title": "PeopleVision: Human Aware Environments",
+		"date": "July 24, 2003",
+		"time": "4:00pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=407",
+		"video": null
+		},
+		{
+		"speaker": "Henry Lieberman",
+		"affiliation": "MIT Media Lab",
+		"title": "Beating Common Sense into Interactive Applications",
+		"date": "September 5, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=408",
+		"video": null
+		},
+		{
+		"speaker": "Candy Sidner",
+		"affiliation": "Mitsubishi Electric Research Laboratories (MERL)",
+		"title": "Engagement by Looking: Behaviors for Robots When Collaborating with People",
+		"date": "September 19, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=409",
+		"video": null
+		},
+		{
+		"speaker": "Tom Tullis",
+		"affiliation": "Fidelity Investments",
+		"title": "Web Usability and Age",
+		"date": "September 26, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=410",
+		"video": null
+		},
+		{
+		"speaker": "Tom Erickson",
+		"affiliation": "IBM Watson Research Center",
+		"title": "On Designing Systems that Support Coherent Online Interaction",
+		"date": "October 10, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=411",
+		"video": null
+		},
+		{
+		"speaker": "David Brown & Mark Claypool",
+		"affiliation": "Worcester Polytechnic Institute",
+		"title": "CURIOUS BROWSERS: Automated gathering of implicit interest indicators by an instrumented browser",
+		"date": "October 17, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=412",
+		"video": null
+		},
+		{
+		"speaker": "Michael Muller & Werner Geyer & Beth Brownholt",
+		"affiliation": "IBM Watson Research Center",
+		"title": "One Hundred Days in an Activity-Centric Collaboration Environment Based on Shared Object",
+		"date": "October 24, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=413",
+		"video": null
+		},
+		{
+		"speaker": "Jared Spool",
+		"affiliation": "User Interface Engineering",
+		"title": "Scent of a Web Page: Getting Them to What They Want",
+		"date": "October 31, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=414",
+		"video": null
+		},
+		{
+		"speaker": "Judith Donath",
+		"affiliation": "MIT Media Lab",
+		"title": "Social Visualizations of Newsgroups and Email",
+		"date": "November 14, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=415",
+		"video": null
+		},
+		{
+		"speaker": "Rob Capra",
+		"affiliation": "Center for HCI, Virginia Tech",
+		"title": "Toward Models of Information Re-Finding",
+		"date": "November 21, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=416",
+		"video": null
+		},
+		{
+		"speaker": "Ruth Rosenholtz",
+		"affiliation": "MIT BCS",
+		"title": "Using Thumbnails to Search the Web and Browse Documents",
+		"date": "December 5, 2003",
+		"time": "1:30pm",
+		"location": "NE43-941",
+		"url":"http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=417",
+		"video": null
+		},
+		{
+		  "speaker": "Henry Lieberman",
+		  "affiliation": "MIT Media Lab",
+		  "title": "Beating Common Sense into Interactive Applications",
+		  "date": "February 13, 2004",
+		  "time": "1:30pm - 2:30pm",
+		  "location": "NE43/941",
+		  "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=12",
+		  "video": null
+		},
+		{
+		  "speaker": "Mary Czerwinski",
+		  "affiliation": "Microsoft Research",
+		  "title": "Designing Novel Visualization and Interaction Techniques that Scale from Small to Jumbo Displays",
+		  "date": "April 9, 2004",
+		  "time": "1:30pm - 2:30pm",
+		  "location": "34-401B (Grier B)",
+		  "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=14",
+		  "video": null
+		},
+		{
+		  "speaker": "Rosalind Picard",
+		  "affiliation": "MIT Media Lab",
+		  "title": "Toward Machines with Emotional Intelligence",
+		  "date": "April 16, 2004",
+		  "time": "1:30pm - 2:30pm",
+		  "location": "32-5xx",
+		  "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=17",
+		  "video": null
+		},
+		{
+		  "speaker": "Carol Neidle and Robert G. Lee",
+		  "affiliation": "Boston University",
+		  "title": "Dimensions of the Linguistic Analysis of ASL: Challenges for Computer-Based Recognition",
+		  "date": "June 9, 2004",
+		  "time": "11am - 12pm",
+		  "location": "32-D507",
+		  "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=96",
+		  "video": null
+		}
+	]
+	},
+	{
+	"year": "2002-2003",
+	"entries":
+	[
+		{
+           "speaker": "Phil Cohen",
+           "affiliation": "Oregon Health and Science University",
+           "title": "On Building Flexible and Robust Multimodal Interfaces",
+           "date": "February 21 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=398",
+           "video": null
+       },
+		{
+           "speaker": "Robert J.K. Jacob",
+           "affiliation": "Tufts University",
+           "title": "Elements of Next-Generation, Non-WIMP User Interfaces",
+           "date": "February 28 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=399",
+           "video": null
+       },
+		{
+           "speaker": "Neil Heffernan",
+           "affiliation": "Worcester Polytechnic Institute",
+           "title": "Improving Intelligent Tutoring Systems",
+           "date": "March 7 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=400",
+           "video": null
+       },
+		{
+           "speaker": "Joe Marks",
+           "affiliation": "Mitsubishi Electric Research Laboratories (MERL)",
+           "title": "Ubiquitous-Computing Research at MERL: A Selective Overview",
+           "date": "March 14 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=401",
+           "video": null
+       },
+		{
+           "speaker": "Nicole Yankelovich",
+           "affiliation": "Sun Microsystems Laboratories",
+           "title": "Meeting Central",
+           "date": "April 11 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=402",
+           "video": null
+       },
+		{
+           "speaker": "Stephen Intille",
+           "affiliation": "MIT House_n",
+           "title": "Designing Ubiquitous Technology for the Home",
+           "date": "April 18 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=403",
+           "video": null
+       },
+		{
+           "speaker": "Irene Greif",
+           "affiliation": "IBM Watson Research Center",
+           "title": "Reinventing Email and Attention Management",
+           "date": "May 2 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=404",
+           "video": null
+       },
+		{
+           "speaker": "Brad Myers",
+           "affiliation": "Human Computer Interaction Institute, CMU",
+           "title": "Mobile Devices for Control",
+           "date": "May 9 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=405",
+           "video": null
+       },
+		{
+           "speaker": "Mark Maybury",
+           "affiliation": "MITRE",
+           "title": "Personalcasting: Broadcast News Understanding and Navigation",
+           "date": "May 16 2003",
+           "time": "1:30-2:30pm",
+           "location": "NE43-941",
+           "url": "http://www.csail.mit.edu/events/eventcalendar/series_exp.php?show=event&id=406",
+           "video": null
+       }
+	]
+	}
+]
+}
