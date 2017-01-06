@@ -522,3 +522,8 @@ body > footer {
 		body > footer a.logo > img {
 			height: 100%;
 		}
+
+section[id="previous"] > article {
+	padding-bottom: 10px;
+}
+
